@@ -1,5 +1,5 @@
 ﻿# The Crawlers | Search Engine
- This Project was developed as part of a course in my summer semester 19 at the University of Passau by me (Faizuddin Nasaruddin) and karim.
+ This Project was developed as part of a course in my summer semester 19 at the University of Passau by me (Faizuddin Nasaruddin) and Karim.
 
 
 Some Screen shots of our Search Engine during dev (these photos are from older versions)
